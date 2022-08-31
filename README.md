@@ -2,7 +2,7 @@
 
 ## Python
 
-Check python version.
+Verifique a versão do python
 
 This examples requires python 3.9.10
 
