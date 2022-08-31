@@ -4,19 +4,19 @@
 
 Verifique a versão do python
 
-This examples requires python 3.9.10
+Este exemplo requer python 3.9.10
 
 ```
 $ python --version
 Python 3.9.10
 ```
 
-## Install dependencies
+## Instalar dependências
 ```
 $ pip install -r requirements.txt
 ```
 
-## Run
+## Executar
 
 ```
 $ python ws.py 
